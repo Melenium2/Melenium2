@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A backend developer</h3>
 
-- 🔭 I’m currently working on **cool projects in 'AlterSMART solutions'**
+- 🔭 I’m currently working on **cool projects in 'Qlean'**
 
 - 🌱 I’m currently learning **Golang, System Disign**
 
